@@ -22,8 +22,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=gotham" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&layout=compact&theme=gotham" alt="maykbrito's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=gotham" alt="maykbrito's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&layout=compact&theme=gotham" alt="maykbrito's most languages"/>
 </p>
 
 <br><br>
