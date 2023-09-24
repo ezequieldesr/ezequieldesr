@@ -1,24 +1,39 @@
 ## Olá!!! Eu sou o EzequielSR 
 
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EzequielSR/7f090b6c28413ebde5f2b10b3421a224/raw/1c1df020bd619a4364b20fec56a6153c64f5aadc/githubcard.svg">
+
 - 🔭 Hoje trabalho com Front-End
 - 📚 Estudando HTML5 e CSS3
 - 😄 Pronouns: ele/dele
+## 🛠 &nbsp;Tecnologias
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=gotham" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&layout=compact&theme=gotham" alt="maykbrito's most languages"/>
+</p>
+
+<br><br>
+
+## Contato
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&layout=compact&langs_count=16&theme=github_dark"/>
+<a href="https://www.linkedin.com/in/ezequiel-de-souza-rodrigues-25b538227/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ezequiel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/ezequiel_sr_/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ezequiel_sr_-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a>
+ <img align="center" src="https://img.shields.io/badge/-ezequieldesr@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+</p>
 </div>
-<br>
-
-<div style="display: inline_block">
-  <img align="left" height="150" alt="coding-time" src="Desing-sem-nome.gif">
-  <img align="center" alt="EzequielSR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="EzequielSr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ezequiel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
- <br>
-<div> 
-  <a href="insta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "email"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-
