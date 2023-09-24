@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou o EzequielSR 
 
-<img align="right" height="690em" src="https://raw.githubusercontent.com/gist/EzequielSR/7f090b6c28413ebde5f2b10b3421a224/raw/1c1df020bd619a4364b20fec56a6153c64f5aadc/githubcard.svg">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EzequielSR/7f090b6c28413ebde5f2b10b3421a224/raw/1c1df020bd619a4364b20fec56a6153c64f5aadc/githubcard.svg">
 
 - 🔭 Hoje trabalho com Front-End
 - 📚 Estudando HTML5 e CSS3
