@@ -3,17 +3,12 @@
 - 🔭 Hoje trabalho com Front-End
 - 📚 Estudando HTML5 e CSS3
 - 😄 Pronouns: ele/dele
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true" >
-</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EzequielSR&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="EzequielSR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
