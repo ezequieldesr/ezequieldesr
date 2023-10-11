@@ -30,7 +30,7 @@
 
 ## Contato
 <div>
-<a href="https://www.linkedin.com/in/ezequiel-de-souza-rodrigues-25b538227/" target="_blank">
+<a href="https://www.linkedin.com/in/ezequiel-de-souza-rodrigues-25b538227/" target="_blanck">
   <img align="center" src="https://img.shields.io/badge/-ezequiel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/ezequiel_sr_/" target="_blank">
