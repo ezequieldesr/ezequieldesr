@@ -8,7 +8,7 @@
   
   <br><br>
   
- 🛠 &nbsp;Tecnologias
+ 🛠 &nbsp;T E C N O L O G I A S
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -19,7 +19,7 @@
 
 <br><br>
 
-⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;G I T H U B -- A N A L Y T I C S
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=gotham" alt="maykbrito's stats"/>
