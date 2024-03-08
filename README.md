@@ -1,6 +1,6 @@
-## Olá!!! Eu sou o EzequielSR 
+ Olá!!! Eu sou o EzequielSR 
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EzequielSR/7f090b6c28413ebde5f2b10b3421a224/raw/1c1df020bd619a4364b20fec56a6153c64f5aadc/githubcard.svg">
+<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/EzequielSR/7f090b6c28413ebde5f2b10b3421a224/raw/1c1df020bd619a4364b20fec56a6153c64f5aadc/githubcard.svg">
 
 - 🔭 Hoje trabalho com Front-End
 - 📚 Estudando HTML5 e CSS3
@@ -8,7 +8,7 @@
   
   <br><br>
   
-## 🛠 &nbsp;Tecnologias
+ 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -19,7 +19,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=gotham" alt="maykbrito's stats"/>
