@@ -30,7 +30,3 @@
 </p>
 
 <br><br>
-
-![Snake animation](https://github.com/EzequielSR/EzequielSR/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=EzequielSR&repo=EzequielSR&theme=react)](https://github.com/EzequielSR/EzequielSR)
