@@ -1,9 +1,12 @@
- Olá!!! Eu sou o EzequielSR 
-
+<h3 align="center";> Olá!!! Eu sou o EzequielSR </h3>
+<br>
 <img align="right" height="600em" src="https://raw.githubusercontent.com/gist/EzequielSR/7f090b6c28413ebde5f2b10b3421a224/raw/1c1df020bd619a4364b20fec56a6153c64f5aadc/githubcard.svg">
-
+<br>
+<br>
 - 🔭 Hoje trabalho com Front-End
+<br>
 - 📚 Estudando HTML5 e CSS3
+<br>
 - 😄 Pronouns: ele/dele
   
   <br><br>
