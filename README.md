@@ -5,7 +5,7 @@
 <br>
 - 🔭 Hoje trabalho com Front-End
 <br>
-- 📚 Estudando HTML5 e CSS3
+- 📚 Estudando JavaScript
 <br>
 - 😄 Pronouns: ele/dele
   
