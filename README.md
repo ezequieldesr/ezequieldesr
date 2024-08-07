@@ -53,3 +53,8 @@
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&layout=compact&theme=gotham" alt="maykbrito's most languages"/>
   
 </p>
+###
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
