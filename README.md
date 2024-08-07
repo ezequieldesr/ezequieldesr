@@ -1,13 +1,17 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center" text-decoration="none">Hey 👋 What's up?</h1>
 
 
+<br>
+<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/EzequielSR/7f090b6c28413ebde5f2b10b3421a224/raw/1c1df020bd619a4364b20fec56a6153c64f5aadc/githubcard.svg">
+<br>
 <br>
 
 <p align="left">My name is Ezequiel and I'm a Front-end Developer, from Brazil</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">👨‍💻&nbsp About me</h3>
+
 
 ###
 
@@ -15,7 +19,7 @@
 
 ###
 
-<h2 align="left"> I code with</h2>
+<h3 align="left">🛠 &nbsp I code with</h3>
 
 ###
 
@@ -40,3 +44,12 @@
 </div>
 
 ###
+<h3 align="left">⚙️&nbsp Github Analytics</h3>
+
+###
+
+<p align="left">
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=gotham" alt="maykbrito's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&layout=compact&theme=gotham" alt="maykbrito's most languages"/>
+  
+</p>
