@@ -49,9 +49,8 @@
 ###
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&theme=gotham" alt="maykbrito's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&layout=compact&theme=gotham" alt="maykbrito's most languages"/>
-  
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&locale=en&theme=gotham&rank_icon=github" />
+<img width ="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&layout=donut&theme=gotham" />
 </p>
 
 ###
