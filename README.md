@@ -1,68 +1,39 @@
 <h1 align="center" text-decoration="none">Hey 👋 What's up?</h1>
 
 
-<br>
-<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/EzequielSR/7f090b6c28413ebde5f2b10b3421a224/raw/1c1df020bd619a4364b20fec56a6153c64f5aadc/githubcard.svg">
-<br>
-<br>
+## About Me
 
-<p align="left">My name is Ezequiel and I'm a Front-end Developer, from Brazil</p>
+My name is Ezequiel and I'm a Developer , from Brazil
 
-###
+👨‍💻 About me  
+✨ Creating bugs since 2021  
+📚 I'm currently learning JavaScript  
+🎯 Goals: Full-stack Developer  
+🎲 Fun fact: I create the entire code and then format it.
 
-<h3 align="left">👨‍💻&nbsp About me</h3>
+## My Skills
 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
+<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 
-###
+## GitHub Stats
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Full-stack Developer<br>🎲 Fun fact: I create the entire code and then format it.</p>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=EzequielSR&theme=gotham&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=EzequielSR&theme=gotham"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=EzequielSR&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-###
+## Connect with me
 
-<h3 align="left">🛠 &nbsp I code with</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="jest logo"  />
-</div>
-
-###
-<h3 align="left">⚙️&nbsp Github Analytics</h3>
-
-###
-
-<p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=EzequielSR&show_icons=true&locale=en&theme=gotham&rank_icon=github" />
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSR&hide_progress=true&theme=gotham" />
-</p>
-
-###
-
-<p align="center">
- <img width="1000" src=".github/github-snake.svg" alt="snake"/>
-</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/ezequiel-de-souza-rodrigues-25b538227/" target="_blank">Ezequiel de S.Rodrigues</a> Email: ezequieldesr@gmail.com</p>
