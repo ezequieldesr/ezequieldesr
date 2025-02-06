@@ -3,7 +3,7 @@
 
 ## About Me
 
-My name is Ezequiel and I'm a Developer , from Brazil
+My name is Ezequiel and I'm a Developer, from Brazil
 
 👨‍💻 About me  
 ✨ Creating bugs since 2021  
