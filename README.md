@@ -78,9 +78,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EzequielSR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<table align="center">
+  <tbody>
+    <tr border="none">
+      <td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=EzequielSR&theme=gotham&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=EzequielSR&theme=gotham"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=EzequielSR&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+</td>
+    </tr>
+  </tbody>
+</table>
 
 ###
 
