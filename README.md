@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e3c77913-acfe-4fd9-855a-7472c7e281d5)
+![image](https://github.com/user-attachments/assets/ae342a55-1f93-42c8-bbc8-91e81a65f9ff)
 
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
