@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ezequiel</h1>
+![image](https://github.com/user-attachments/assets/e3c77913-acfe-4fd9-855a-7472c7e281d5)
+
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ezequielsr&label=Profile%20views&color=0e75b6&style=flat&theme=gotham" alt="ezequielsr" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezequielsr&theme=gotham" alt="ezequielsr" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **APIs, Java OOP & SpringBoot**
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **ezequieldesr@gmail.com**
 
-- 📄 Know about my experiences [I was a front-end freelancer for 2 years and currently I'm Developer in DBServer](I was a front-end freelancer for 2 years and currently I'm Developer in DBServer)
+- 📄 Know about my experiences **I was a front-end freelancer for 2 years and currently I'm Developer in DBServer**
 
 - ⚡ Fun fact **In my free time I read books about philosofy**
 
@@ -23,45 +25,14 @@
 <a href="https://instagram.com/ezequiel_sr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezequiel_sr_" height="30" width="40" /></a>
 </p>
 
+
+
 ##
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="figma logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="figma logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="figma logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="figma logo"  />
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,nodejs,react,javascript,java,spring,typescript,mysql,figma,cypress,selenium,tailwind,express,linux,git&theme=dark)](https://skillicons.dev)
   
 </div>
 
