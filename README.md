@@ -1,4 +1,4 @@
-<h3 align="center">Um desenvolvedor apaixonado por Desenvolvimento Java full-stack do Brasil</h3>
+<h3 align="center">Um apaixonado por Desenvolvimento Java full-stack do Brasil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ezequielsr&label=Profile%20views&color=0e75b6&style=flat&theme=gotham" alt="ezequielsr" /> </p>
 
