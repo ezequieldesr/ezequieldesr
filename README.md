@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Atualmente, estou aprendendo **APIs, Java OOP & SpringBoot**
+- 🌱 Atualmente, estou aprendendo **APIs, POO Java  & SpringBoot**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://dynamic-portfolio-nova.vercel.app/](https://dynamic-portfolio-nova.vercel.app/)
 
