@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/ezequiel_sr_)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/ezequieldesr/)
 
-## <samp>Olá, Mundo!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
+## <samp>Olá, Mundo!</samp> <img src="https://github.com/ezequieldesr/ezequieldesr/blob/main/.github/earth.gif" width="22px" height="22px">
 
 <samp>Eu sou o Ezequiel de Souza Rodrigues do estado de Santa Catarina, __Brasileiro__ 🇧🇷, atualmente sou um __Desenvolvedor Java Full-Stack__, apaixonado por resolver problemas com tecnologias e ideias inovadoras.
 
