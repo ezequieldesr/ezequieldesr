@@ -9,7 +9,7 @@
 
 
 - 🤝 <samp>Estou procurando em ajudar com projetos Open Source voltados para o Full-Stack, Java ou Front-End </samp>
-- 🌱 <samp> Atualmente estou aprendendo **Java, POO Java, SpringBoot** </samp>
+- 🌱 <samp> Atualmente estou aprendendo **AWS, Docker e DevOps** </samp>
 - 📫 <samp> Entre em contato via e-mail **ezequieldesr@gmail.com** </samp>
 
 - ⚡ <samp> Fato curioso nas horas vagas eu amo ler livros de filosofia </samp>
