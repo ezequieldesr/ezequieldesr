@@ -5,7 +5,7 @@
 
 ## <samp>Olá, Mundo!</samp> <img src="https://github.com/ezequieldesr/ezequieldesr/blob/main/.github/earth.gif" width="22px" height="22px">
 
-<samp>Eu sou o Ezequiel de Souza Rodrigues do estado de Santa Catarina, __Brasileiro__ 🇧🇷, atualmente sou um __Desenvolvedor Java Full-Stack__, apaixonado por resolver problemas com tecnologias e ideias inovadoras.
+<samp>Eu sou o Ezequiel de Souza Rodrigues do estado de Santa Catarina, __Brasileiro__ 🇧🇷, atualmente sou um __Desenvolvedor Java__, apaixonado por resolver problemas com tecnologias e ideias inovadoras.
 
 
 - 🤝 <samp>Estou procurando em ajudar com projetos Open Source voltados para o Full-Stack, Java ou Front-End </samp>
